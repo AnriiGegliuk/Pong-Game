@@ -17,6 +17,6 @@ Active game screen
 
 Score traking 
 
-![image](https://user-images.githubusercontent.com/120349975/207213297-48b3350c-0ddd-4e4b-aadd-6f37b3b1addd.png)
+![image](https://user-images.githubusercontent.com/120349975/207213575-e2084f8e-5925-4080-9629-8228afd3963a.png)
 
 
