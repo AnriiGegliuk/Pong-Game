@@ -11,6 +11,11 @@ Download the source code from the repository and run the file just as any other 
 
 Use the arrow keys to move the right paddle "Up" and "Down" and "W" and "S" for left paddle. Each time it hits paddle ball speed increases.
 
+
+# Replit: 
+
+Please try this project on Replit: https://replit.com/@AndriiGegliuk/Pong-Game?v=1
+
 Active game screen
 
 ![image](https://user-images.githubusercontent.com/120349975/207212772-c2e0b05a-cb36-47d4-b896-fadc9c356d9e.png)
