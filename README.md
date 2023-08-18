@@ -1,7 +1,7 @@
 # Pong-Game
 Pong Game written in Python using the Turtle module.
 
-# Installing & Running the application (Written using PyCharm)
+# Installing & Running the application
 
 Download the Python 3 installer package from the official website and install it, if not installed previously.
 
